@@ -1,0 +1,97 @@
+body{
+  background-color:black;
+}
+
+h1{
+  text-align: center;
+  color:white;
+}
+
+
+  #pasto {
+     width: 1300px;
+     height: 500px;
+     border: 3px solid #9FF781;
+     border-spacing: 50px;
+     background: #9FF781;
+   }
+
+   #porteria1 {
+     display: inline-block;
+      width:100px;
+      height: 30vh;
+      position: relative;
+      border: 3px solid #555;
+     top: 120px;
+      border-left: none;
+
+
+    }
+
+
+    #porteria2 {
+      display: inline-block;
+      position: relative;
+       width:100px;
+       height: 30vh;
+       margin-left: 400px;
+       border: 3px solid #555;
+       top: 120px;
+       border-right: none;
+
+     }
+
+     #centro {
+      display: inline-block;
+      position: relative;
+      top: 100px;
+     width: 170px;
+     margin-left: 450px;
+     height: 170px;
+     border: 3px solid #555;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+
+}
+
+#linea{
+  display: inline-block;
+  border: 3px solid #555;
+  height: 440px;
+  width: 1240px;
+  margin-left: 30px;
+  margin-top: 30px;
+
+}
+
+.circulo {
+       width:0;
+       height:0;
+       border-right: 10px solid #ffffff;
+       border-top: 10px solid #000000;
+       border-left: 10px solid #ffffff;
+       border-bottom: 10px solid #000000;
+       -moz-border-radius: 100%;
+       -webkit-border-radius: 100%;
+       border-radius: 100%;
+}
+
+#balon1{
+  position: absolute;
+  top: 37%;
+  left: 10%;
+}
+
+#balon2{
+  position: absolute;
+  top: 60%;
+  left: 84%;
+}
+
+#balon3{
+  position: absolute;
+  top: 25%;
+  left: 51%;
+
+}

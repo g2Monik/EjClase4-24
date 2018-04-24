@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  color:#F7819F;
+}
+
+body{
+  background-color:black;
+}
+
+
+#box1 {
+	position: absolute;
+	top: 10%;
+	right: 20%;
+	bottom: 0;
+	left: 0;
+	background: #FE2E9A;
+}
+
+#box2 {
+	position: absolute;
+	top: 10%;
+	right: 0;
+	bottom: 0;
+	left: 80%;
+	background: #F3F781;
+}

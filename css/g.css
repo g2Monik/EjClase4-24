@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+  color:#F7819F;
+}
+
+body{
+  background-color:black;
+}
+
+
+  #box1 {
+  	position: absolute;
+  	top: 10%;
+  	right: 10px;
+  	bottom: 10px;
+  	left: 10px;
+  	background: #FF0040;
+  }
+  #box2 {
+  	position: absolute;
+  	top: 12%;
+  	right: 20px;
+  	bottom: 20px;
+  	left: 20px;
+  	background: #F6CEF5;
+  }

@@ -1,0 +1,30 @@
+h1{
+  text-align: center;
+  color:#F7819F;
+}
+
+body{
+  background-color:black;
+}
+
+div{
+  position: static;
+  padding: 5em;
+  width: 7em;
+  height:7em;
+  box-sizing: border-box;
+  border: 1px solid black;
+
+}
+
+.pink{
+  background-color: #F781F3;
+}
+
+.blue{
+  background-color: #2E2EFE ;
+}
+
+.yellow{
+  background-color: #F3F781;
+}
